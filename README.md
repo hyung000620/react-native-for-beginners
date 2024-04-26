@@ -10,7 +10,7 @@
 
 - [X] 1.2 Requirements (02:41)
 
-- [ ] 1.3 Software Requirements (06:02)
+- [X] 1.3 Software Requirements (06:02)
 
 - [ ] 1.4 Installing Requirements (08:57)
 
