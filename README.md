@@ -12,7 +12,7 @@
 
 - [X] 1.3 Software Requirements (06:02)
 
-- [ ] 1.4 Installing Requirements (08:57)
+- [X] 1.4 Installing Requirements (08:57)
 
 - [ ] 1.5 How Does React Native Work (11:26)
 
