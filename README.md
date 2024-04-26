@@ -8,7 +8,7 @@
 
 - [X] 1.1 Welcome (02:02)
 
-- [ ] 1.2 Requirements (02:41)
+- [X] 1.2 Requirements (02:41)
 
 - [ ] 1.3 Software Requirements (06:02)
 
