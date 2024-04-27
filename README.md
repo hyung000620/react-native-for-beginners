@@ -18,7 +18,7 @@
 
 - [X] 1.6 Creating The App (09:09)
 
-- [ ] 1.7 Recap (05:48)
+- [X] 1.7 Recap (05:48)
 
 ### 2 [2021 UPDATE] WEATHER APP
 
