@@ -22,7 +22,7 @@
 
 ### 2 [2021 UPDATE] WEATHER APP
 
-- [ ] 2.0 Snack (03:54)
+- [X] 2.0 Snack (03:54)
 
 - [ ] 2.1 The Rules of Native (12:57)
 
