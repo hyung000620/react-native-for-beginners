@@ -16,7 +16,7 @@
 
 - [X] 1.5 How Does React Native Work (11:26)
 
-- [ ] 1.6 Creating The App (09:09)
+- [X] 1.6 Creating The App (09:09)
 
 - [ ] 1.7 Recap (05:48)
 
