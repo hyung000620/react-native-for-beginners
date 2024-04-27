@@ -14,7 +14,7 @@
 
 - [X] 1.4 Installing Requirements (08:57)
 
-- [ ] 1.5 How Does React Native Work (11:26)
+- [X] 1.5 How Does React Native Work (11:26)
 
 - [ ] 1.6 Creating The App (09:09)
 
