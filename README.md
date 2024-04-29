@@ -26,7 +26,7 @@
 
 - [X] 2.1 The Rules of Native (12:57)
 
-- [ ] 2.2 React Native Packages (07:09)
+- [X] 2.2 React Native Packages (07:09)
 
 - [ ] 2.3 Third Party Packages (14:30)
 
