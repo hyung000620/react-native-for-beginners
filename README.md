@@ -24,7 +24,7 @@
 
 - [X] 2.0 Snack (03:54)
 
-- [ ] 2.1 The Rules of Native (12:57)
+- [X] 2.1 The Rules of Native (12:57)
 
 - [ ] 2.2 React Native Packages (07:09)
 
