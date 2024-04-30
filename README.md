@@ -28,7 +28,7 @@
 
 - [X] 2.2 React Native Packages (07:09)
 
-- [ ] 2.3 Third Party Packages (14:30)
+- [X] 2.3 Third Party Packages (14:30)
 
 - [ ] 2.4 Layout System (10:27)
 
