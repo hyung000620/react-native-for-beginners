@@ -32,7 +32,7 @@
 
 - [X] 2.4 Layout System (10:27)
 
-- [ ] 2.5 Styles (12:26)
+- [X] 2.5 Styles (12:26)
 
 - [ ] 2.6 Styles part Two (14:24)
 
