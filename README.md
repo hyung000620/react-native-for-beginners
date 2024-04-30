@@ -30,7 +30,7 @@
 
 - [X] 2.3 Third Party Packages (14:30)
 
-- [ ] 2.4 Layout System (10:27)
+- [X] 2.4 Layout System (10:27)
 
 - [ ] 2.5 Styles (12:26)
 
